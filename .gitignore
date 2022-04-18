@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data for application
-*.jpg
+# output application data
+*_parsed.jpg
